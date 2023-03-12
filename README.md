@@ -1,5 +1,12 @@
 # Static_Web_Deployment
 
+
+Static web server deployment is a project in which you will deploy one static web site on web. With the help of AWS EC2 , XAMPP , MobaXterm , RDP , Apache , GitHub and one file which is uploaded on this repository.
+
+
+Following steps will let you understand about deploymet of this project.
+
+
 Step 1 = Get Windows OS from AWS EC2
 
 Step 2 = Open OS in mobaXterm or RDP
